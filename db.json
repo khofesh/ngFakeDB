@@ -1,0 +1,119 @@
+{
+  "activity": [
+    {
+      "imgUrl": "example.com",
+      "user": "John Something 1",
+      "description": "i do something something",
+      "time": "2 seconds ago"
+    },
+    {
+      "imgUrl": "example.com",
+      "user": "John Something 1",
+      "description": "i do something something",
+      "time": "2 seconds ago"
+    },
+    {
+      "imgUrl": "example.com",
+      "user": "John Something 1",
+      "description": "i do something something",
+      "time": "2 seconds ago"
+    },
+    {
+      "imgUrl": "example.com",
+      "user": "John Something 1",
+      "description": "i do something something",
+      "time": "2 seconds ago"
+    },
+    {
+      "imgUrl": "example.com",
+      "user": "John Something 1",
+      "description": "i do something something",
+      "time": "2 seconds ago"
+    }
+  ],
+  "channels": [
+    {
+      "left": {
+        "name": "Google",
+        "link": "google.com"
+      },
+      "right": {
+        "name": "Dribble",
+        "link": "example.com"
+      }
+    },
+    {
+      "left": {
+        "name": "Microsoft",
+        "link": "microsoft.com"
+      },
+      "right": {
+        "name": "Behance",
+        "link": "example.com"
+      }
+    },
+    {
+      "left": {
+        "name": "Weather Channel",
+        "link": "google.com"
+      },
+      "right": {
+        "name": "Gurus",
+        "link": "example.com"
+      }
+    },
+    {
+      "left": {
+        "name": "iMedia",
+        "link": "google.com"
+      },
+      "right": {
+        "name": "Creativeye",
+        "link": "example.com"
+      }
+    },
+    {
+      "left": {
+        "name": "Khan Studios",
+        "link": "google.com"
+      },
+      "right": {
+        "name": "Yahoo",
+        "link": "example.com"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "mainvid": {
+        "title": "How to imprive your skills",
+        "user": "Waseen Arshad",
+        "views": 11
+      },
+      "columnVids": [
+        {
+          "user": "Ahmed Yasin",
+          "views": 15454,
+          "placement": 4
+        },
+        {
+          "user": "John Doe",
+          "views": 2534,
+          "placement": 5
+        }
+      ],
+      "rowVids": [
+        {
+          "user": "John Stainor",
+          "views": 2554,
+          "placement": 7
+        },
+        {
+          "user": "Michael Kelliph",
+          "views": 1984,
+          "placement": 8
+        }
+      ]
+    }
+  ]
+}
