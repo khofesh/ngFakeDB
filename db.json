@@ -8,25 +8,25 @@
     },
     {
       "imgUrl": "example.com",
-      "user": "John Something 1",
+      "user": "John 2",
       "description": "i do something something",
       "time": "2 seconds ago"
     },
     {
       "imgUrl": "example.com",
-      "user": "John Something 1",
+      "user": "John 3",
       "description": "i do something something",
       "time": "2 seconds ago"
     },
     {
       "imgUrl": "example.com",
-      "user": "John Something 1",
+      "user": "John 4",
       "description": "i do something something",
       "time": "2 seconds ago"
     },
     {
       "imgUrl": "example.com",
-      "user": "John Something 1",
+      "user": "John 5",
       "description": "i do something something",
       "time": "2 seconds ago"
     }
